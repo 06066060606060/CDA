@@ -1,4 +1,4 @@
- [![N|Solid]_Simplon_2022_
+ [![N|Solid](_Simplon_2022_)
 
  Lexique:
 

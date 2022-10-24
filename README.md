@@ -1,5 +1,5 @@
  ## _Simplon_2022_
 
- Lexique:
+ ✨ Lexique: ✨
 
 - Scalabilité

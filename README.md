@@ -3,5 +3,5 @@
  ✨ Lexique: ✨
 
 - Scalabilité:
-> capacité à s'adapter à la demande en conservant les fonctionnalités.
+> *capacité à s'adapter à la demande en conservant les fonctionnalités.*
 

@@ -1,4 +1,4 @@
- ##_Simplon_2022_)
+ ##_Simplon_2022_
 
  Lexique:
 

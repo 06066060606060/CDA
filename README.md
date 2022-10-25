@@ -8,7 +8,7 @@
 - Wireframe Ux
 > schéma utilisé lors de la conception d'une interface utilisateur pour définir les zones et composants qu'elle doit contenir. 
 - Maquette Ui
-> représentation graphique simplifiée de la façon dont vous voulez agencer votre site Web et ses éléments/parties
+> représentation graphique simplifiée de la façon dont vous voulez agencer votre site Web et ses éléments graphique
 - Prototype
 > le premier exemplaire d'un produit industriel. 
 - MVP 

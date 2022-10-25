@@ -1,5 +1,5 @@
  ## CDA_Simplon_2022
-![](https://media.tenor.com/uyL9b2u5zKEAAAAS/dictionary-homer-simpson.gif)
+!(https://media.tenor.com/uyL9b2u5zKEAAAAS/dictionary-homer-simpson.gif)
 
  ✨ Lexique: ✨
 
